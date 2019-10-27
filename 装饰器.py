@@ -93,7 +93,7 @@ ret = func(1, b=100)
 print(ret)
 
 
-# 装饰区的固定模式
+# 装饰器的固定模式
 # 1.先写装饰器函数
 def wrapper(f):
     def inner(*args, **kwargs):

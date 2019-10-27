@@ -3,7 +3,7 @@
 """
 # @Time    : 2019/9/2 
 # @Author  : yanlei
-# @FileName: hashlib初始.py
+# @FileName: hashlib初识.py
 """
 # 登录验证
 # 加密 ->  解密
